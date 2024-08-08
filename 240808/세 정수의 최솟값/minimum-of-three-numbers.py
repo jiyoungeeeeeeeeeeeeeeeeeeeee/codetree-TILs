@@ -1,4 +1,4 @@
-a , b, c = list(map(int, input().split()))
+a,b,c = list(map(int,input().split()))
 
 
 # a가 최솟값인 경우 
