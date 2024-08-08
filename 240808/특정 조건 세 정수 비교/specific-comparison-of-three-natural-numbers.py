@@ -16,7 +16,7 @@ if a > b and c > b:
         print(0, end = ' ')
 
 #a가 최솟값일 경우
-if c > a and b > a :
+if c >= a and b >= a :
 
   print(1, end = ' ')
 
