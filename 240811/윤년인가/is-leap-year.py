@@ -6,3 +6,5 @@ if y% 100 == 0:
 
 elif y%4 == 0:
     print('true')
+
+else :print('false')
