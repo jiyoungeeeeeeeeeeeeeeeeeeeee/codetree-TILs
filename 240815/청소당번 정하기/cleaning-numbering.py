@@ -4,7 +4,7 @@ cnt2 = 0
 cnt3 = 0
 cnt12 = 0
 
-for i in range(1,n):
+for i in range(1,n+1):
     if i%12 == 0:
         cnt12 += 1
     
