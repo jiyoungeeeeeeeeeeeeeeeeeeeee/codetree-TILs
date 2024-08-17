@@ -2,9 +2,9 @@ n  = int(input())
 sum_val = 0
 
 for i in range(n):
-    int(input())
+    s = int(input())
 
-    if i%2 == 1 and i%3 == 0:
-        sum_val += i
+    if s%2 == 1 and s%3 == 0:
+        sum_val += s
 
 print(sum_val)
