@@ -1,20 +1,31 @@
-a , b = map(int,input().split())
+a, b = map(int, input().split()) 
 sum_val = 0
 
 if a > b:
-    for i in range(b, a+1):
-        if i%5 == 0:
-            sum_val += i
     if a < 5:
         print(0)
-       
+    else:
+        for i in range(b, a + 1):
+            if i % 5 == 0:
+                sum_val += i
+        print(sum_val)
+
+
 
 elif b > a:
-    for i in range(a, b+1):
-        if i%5 == 0:
-            sum_val += i
     if b < 5:
         print(0)
 
+    else :
+        for i in range(a, b + 1):
+            if i % 5 == 0:
+                sum_val += i
+        print(sum_val)
+
+
+
 elif a == b:
-    print(a)
+    if a < 5:
+        print(0)
+    else:
+        print(a)
