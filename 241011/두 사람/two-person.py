@@ -8,6 +8,6 @@ if age_1 >= 19 and sex_1 == 'M':
     print('1')
 
 elif age_2 >= 19 and sex_2 == 'M':
-    print('0')
+    print('1')
 
 else : print('0')
