@@ -6,7 +6,7 @@ if a_m > b_m :
 
 
 elif a_m == b_m :
-    if a_e > a_e:
+    if a_e > b_e:
         print('A')
     else : print('B')
 
