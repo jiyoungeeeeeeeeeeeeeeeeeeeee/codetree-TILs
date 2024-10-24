@@ -12,7 +12,7 @@
 
 |교재|이름|난이도|상태|최근 제출 코드|
 |---|---|:---:|:---:|---|
-|[Novice Low / 단순 반복문 / for 안의 if](https://www.codetree.ai/missions?missionId=4)|[[연습]a 부터 b 까지](https://www.codetree.ai/missions/4/problems/a-to-b)|![보통][medium]|![Passed][passed]|[링크](https://github.com/jiyoungeeeeeeeeeeeeeeeeeeeee/codetree-TILs/blob/main/241023/a%20%EB%B6%80%ED%84%B0%20b%20%EA%B9%8C%EC%A7%80/a-to-b.py)|
+|[Novice Low / 단순 반복문 / 반복문 안의 if](https://www.codetree.ai/missions?missionId=4)|[[연습]a 부터 b 까지](https://www.codetree.ai/missions/4/problems/a-to-b)|![보통][medium]|![Passed][passed]|[링크](https://github.com/jiyoungeeeeeeeeeeeeeeeeeeeee/codetree-TILs/blob/main/241023/a%20%EB%B6%80%ED%84%B0%20b%20%EA%B9%8C%EC%A7%80/a-to-b.py)|
 
 
 * 획득 경험치: 해설을 보지 않고 푼 문제에 한해 최초 1회 경험치를 획득하실 수 있습니다.
