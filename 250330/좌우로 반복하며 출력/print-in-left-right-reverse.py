@@ -1,20 +1,12 @@
 n = int(input())
-cnt = 1
-
+arr1 = [[0 for i in range(n)] for _ in range(n)]
 
 for i in range(n):
-    row = []
-    for j in range(n):
-        row.append(cnt)
-        cnt += 1
-
-    
-    if i%5 == 0:
-        for j in range(n-1 , -1, -1):
-            print(row[j] , end = ' ')
-    
+    if i % 2 == 0:
+        for j in range(1,n+1):
+            print(j , end ='')
     else :
-        for j in range(n):
-            print(row[j] , end = ' ')
+        for j in range(n,0,-1):
+            print(j, end = '')
 
     print()
